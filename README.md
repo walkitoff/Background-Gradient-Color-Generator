@@ -1,5 +1,5 @@
-# Background-Gradient-Generator
-linear gradient color generator.<br>
+# Background-Gradient-Color-Generator
+
 Quickly find that color & Linear-Gradient you need using the <br>
 two color selectors.<br>
 Can't decide? Then try the convenient Random button to generate<br>
